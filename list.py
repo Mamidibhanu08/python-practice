@@ -1,0 +1,17 @@
+List python
+l=[1,2,3]
+l.append(4)
+print(l)
+l.extend([5,6])
+print(l)
+l.insert(2,100)
+print(l)
+# print(l.remove(100))
+print(l)
+c=l.pop()
+print(c)
+# l.clear()
+# print(l)
+# del(l)
+# print(l)
+print(l.index(2))
